@@ -77,10 +77,3 @@ Evaluation Metrics:
 - Classification models effectively identified high-value properties
 - Visualization helped compare model accuracy and errors
 
----
-
-## 🚀 How to Run
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install pandas scikit-learn matplotlib seaborn statsmodels
